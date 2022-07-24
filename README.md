@@ -9,19 +9,22 @@ There are many different traffic signs like speed limit, traffic signals, indica
 This dataset contains 50000 images of 43 classes which are numbered from 0 to 42.
 
 The 43 classes are as follows:
-    1:'Speed limit (20km/h)',
-    2:'Speed limit (30km/h)',
-    3:'Speed limit (50km/h)',
-    4:'Speed limit (60km/h)',
-    5:'Speed limit (70km/h)',
-    6:'Speed limit (80km/h)',
-    7:'End of speed limit (80km/h)',
-    8:'Speed limit (100km/h)',
-    9:'Speed limit (120km/h)',
-    10:'No passing',
-    11:'No passing veh over 3.5 tons',
-    12:'Right-of-way at intersection',
-    13:'Priority road',
+
+    1:Speed limit (20km/h)
+    
+    2:Speed limit (30km/h)
+    
+    3:Speed limit (50km/h)
+    4:Speed limit (60km/h)',
+    5:Speed limit (70km/h)',
+    6:Speed limit (80km/h)',
+    7:End of speed limit (80km/h)',
+    8:Speed limit (100km/h)',
+    9:Speed limit (120km/h)',
+    10:No passing',
+    11:No passing veh over 3.5 tons',
+    12:Right-of-way at intersection',
+    13:Priority road',
     14:'Yield',
     15:'Stop',
     16:'No vehicles',
