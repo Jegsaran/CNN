@@ -1,4 +1,4 @@
-# CNN-
+# CNN
 Contains Python notebooks of CNN projects
 
 Today self-driving cars are overtaking the automobile industry where drivers can fully depend on cars. 
